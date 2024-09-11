@@ -46,3 +46,17 @@ Here's a brief overview of the important files in the project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Bike_Racing_Game.git
+
+
+
+## 🔥 Fun Facts
+- This game was inspired by arcade-style bike racing games, with a focus on keeping the gameplay simple yet addictive.
+- The font `times.ttf` adds a classic arcade feel to the game, enhancing the retro vibes.
+- The mysterious `ramqqqq.txt` file logs random events—it's like an Easter egg in the game. Check it out after each race to see what surprises it holds!
+- Did you know? The bike speed and difficulty level dynamically increase based on how long you survive without crashing. So, the longer you play, the harder it gets!
+
+## 📝 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+We welcome contributions from the community! If you have ideas for new features, optimizations, or bug fixes, feel free to open a pull request or issue.
